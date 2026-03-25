@@ -89,5 +89,5 @@ python chatbot.py
 
 ## Author
 
-Developed by [Aamna Amin]  
+Developed by Aamna Amin  
 CodeAlpha AI Internship - Task 2
